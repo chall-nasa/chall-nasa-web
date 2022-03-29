@@ -58,8 +58,8 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
-#avatar: "images/jonathan_doe.jpg"
+#avatar: "https://avatars0.githubusercontent.com/u/8897534"
+avatar: "images/IMG_2668_th.jpg"
 #avatar:
 
 
@@ -68,7 +68,7 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 links:
   - linkedin:
       name: LinkedIn
-      show: false
+      show: true
       href: https://www.linkedin.com/in/hallc/
       icon: fab fa-linkedin
   - twitter:
@@ -78,8 +78,8 @@ links:
       icon: fab fa-twitter
   - facebook:
       name: Facebook
-      show: false
-      href: https://facebook.com/YOUR_FB_USERNAME
+      show: true
+      href: https://facebook.com/cyndibughall
       icon: fab fa-facebook
   - instagram:
       name: Instagram
@@ -99,7 +99,7 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:cyndibughall@gmail.com
       icon: fas fa-envelope
 
 
@@ -107,7 +107,6 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    Cynthia Hall is currently the Community Coordinator for the Transform to Open Science (TOPS) program, promoting NASA’s commitment to open-source science and NASA’s 2023 Year of Open Science. She also serves as an adjunct faculty member in the Department of Geology and Environmental Geosciences at the College of Charleston. She teaches courses in environmental geology, advocating for the environment through art, and Earth system science education.
 
 #EOF
